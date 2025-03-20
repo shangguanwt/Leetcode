@@ -2,9 +2,9 @@
 # -*- coding: UTF-8 -*-
 '''
 @Project ：pythonProject2 
-@File    ：70.爬楼梯.py.py
+@File    ：70.爬楼梯.py
 @IDE     ：PyCharm 
-@Author  ：苜苜的烂笔头
+@Author  ：shangguan
 @Date    ：2025/3/20 16:07 
 '''
 class solution:
