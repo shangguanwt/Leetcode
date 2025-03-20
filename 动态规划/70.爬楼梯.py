@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 '''
-@Project ：pythonProject2 
 @File    ：70.爬楼梯.py
 @IDE     ：PyCharm 
 @Author  ：shangguan
